@@ -1,0 +1,12 @@
+python-dotenv
+json
+neo4j
+sdv
+pyarrow
+duckdb
+streamlit
+glob
+openai
+xgboost
+langchain_community
+langchain_openai
